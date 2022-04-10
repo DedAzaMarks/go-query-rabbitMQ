@@ -4,7 +4,10 @@
 * Go 1.17
 * RabbitMQ
 
-**Run**
+**RabbitMQ**
+* Run Server: `rabbitmq-server –detached`
+
+**Run Search**
 * Client: `go run main.go`
 * Pathfinder queue: `go run pathfinder/pathfinder.go`
 * Pathfinder server: `go run server/*.go`
