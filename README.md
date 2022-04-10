@@ -1,5 +1,7 @@
 # go-query-rabbitMQ
 
+docker hub: https://hub.docker.com/r/dedazamarks/go-query-rabbitmq
+
 **Require**
 * Go 1.17
 * RabbitMQ
